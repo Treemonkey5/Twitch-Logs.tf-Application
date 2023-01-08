@@ -1,0 +1,1 @@
+twitchname1/steamID1,twitchname2/steamID2,twitchname3/steamID3
